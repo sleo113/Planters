@@ -194,6 +194,8 @@ POST 방식, DELETE 방식, PUT 방식, PATCH 방식도 앞서 한 GET 방식처
 
 이를 통해 매핑 어노테이션에 기술될 공통적인 value 값을 줄여 반복을 없앨 수 있다.
 
+빰빠라람~
+
 > 출처 :
 https://mungto.tistory.com/436
 https://backendcode.tistory.com/227
